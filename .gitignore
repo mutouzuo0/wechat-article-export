@@ -1,0 +1,14 @@
+# 运行时数据文件（含登录凭证，严禁提交）
+wx_token.txt
+wx_articles.json
+wx_missing_urls.json
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 输出内容
+output/
